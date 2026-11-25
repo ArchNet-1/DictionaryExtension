@@ -1,19 +1,20 @@
 {
-  "name": "com.archnet.extension.dictionnary",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension Dictionnary",
-  "description": "Extension to manage Dictionnary class",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "name": "com.archnet.extension.dictionary",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Dictionary Extension",
+  "description": "Extension methods for dictionaries: copy a dictionary without its empty values.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#DictionaryExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/DictionaryExtension/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/DictionaryExtension/blob/main/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Dictionnary",
-    "Custom"
+    "archnet",
+    "extension",
+    "dictionary"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }

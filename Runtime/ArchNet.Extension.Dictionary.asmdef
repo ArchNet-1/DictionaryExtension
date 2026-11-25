@@ -1,6 +1,6 @@
 {
-    "name": "ArchNet.Editor.Extension.Dictionnary",
-    "rootNamespace": "",
+    "name": "ArchNet.Extension.Dictionary",
+    "rootNamespace": "ArchNet.Extension",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
