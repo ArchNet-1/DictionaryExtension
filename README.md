@@ -27,4 +27,4 @@ var filled = texts.WithoutEmptyValues();
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

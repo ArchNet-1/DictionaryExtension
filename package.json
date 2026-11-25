@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Dictionary Extension",
   "description": "Extension methods for dictionaries: copy a dictionary without its empty values.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#DictionaryExtension",
   "changelogUrl": "https://github.com/ArchNet-1/DictionaryExtension/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/DictionaryExtension/blob/main/LICENSE.md",
